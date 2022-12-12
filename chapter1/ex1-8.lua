@@ -1,0 +1,1 @@
+print("The name is", arg[1])
